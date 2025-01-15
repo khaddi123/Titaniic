@@ -146,6 +146,7 @@ connection.close()
 
 ---
 
+![Arbre de décision](output.PNG)
 
 
 
